@@ -10,6 +10,10 @@ Adding ideas from other contributors -- submit a PR!
 2. [Work](#2)   
 2.1 [Green Softare](#2.1)
 3. [Travel](#3)
+4. [Parenting](#4)
+5. [Food](#5)
+5.1. [Restaurants](#5.1)
+7. [Events](#6)
 
 
 ## 1. Home<a id='1'></a>
@@ -48,22 +52,26 @@ Take ownership of all household waste. See how many bags of trash you throw out 
 
 
 ## 2. Work<a id='2'></a>
+
 Things to do at work
 
 - [ ] work remote
 
 ### 2.1. Green Software<a id='2.1'></a>
+
 Things to do when building software
 
 - [ ] shut down unneeded processes that require compute
 - [ ] AI less, search less
 
 ## 3. Travel<a id='3'></a>
+
 How to travel green
 
 - [ ] how many plane trips do you take / year...
 
 ## 4. Parenting<a id='4'></a>
+
 How to raise kids and not trash the earth
 
 - [ ] washable diapers
@@ -71,6 +79,7 @@ How to raise kids and not trash the earth
 - [ ] Tell friends / family the kind of gifts you want to receive. Avoid things that will end up in the landfill.
 
 ## 5. Food<a id='5'></a>
+
 Ideas on eating green
 
 - [ ] eat meat sparingly - think about impacts of beef vs chicken/fish vs the occassional veggie-only meal
@@ -82,17 +91,12 @@ Ideas on eating green
 - [ ] ask for no ice / no straw in your drink
 
 ## 6. Events<a id='6'></a>
+
 How to make sure your next event doesn't end up in the landfill. It is possible to throw a [zero trash bash](https://www.eventbrite.com/e/15th-zero-trash-birthday-bash-tickets-929684801267).
 
 - [ ] Don't use one-time-use items if possible
 - [ ] Bring your own plates, silverware, cups
 - [ ] Set up recycling and composting bins. Landfill as last resort.
-
-
-
-
-
-
 
 
 
